@@ -1,2 +1,2 @@
 # getusdtss
-# https://github.com/moneyearne/getusdtss.git
+https://github.com/moneyearne/getusdtss.git
